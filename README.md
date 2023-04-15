@@ -11,7 +11,7 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SoT10&theme=dark&hide_border=true&locale=ru&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) 
 
 ### Top langs
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoT10&hide=TeX&layout=compact)    
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoT10&hide=TeX&layout=compact&theme=dark)    
 
 ### <div align="left">  :hammer_and_wrench: Чего могу : </div>
 

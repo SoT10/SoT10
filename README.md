@@ -5,13 +5,13 @@
     <div  align="center" class=head>
         <img src="https://komarev.com/ghpvc/?username=chikatilo2000&style=plastic&color=red&label=Посмотрели+мой+Git" alt=""/>
 
-### <center>Рад всех приветствовать на моем профиле :raised_hand: <center> </div> 
-
-##### <div align=left class=head> Как говорит классик: "Надо быть, а не казаться". Как в жизни, так и тут постараюсь </div>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=200&size=30&duration=3500&pause=500&multiline=true&width=435&height=80&lines=Рад+всех+приветствовать+на+моем+профиле;"Надо быть, а не казаться")
 
 #### <div class=head align=left> :fire: Моя статистика:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SoT10&theme=dark&hide_border=true&locale=ru&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) 
-    
+
+### Top langs
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoT10&hide=TeX&layout=compact)    
 
 ### <div class=head align="left">  :hammer_and_wrench: Чего могу : </div>
 

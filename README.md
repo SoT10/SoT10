@@ -6,7 +6,7 @@
 </div>
 
 <div align="left" >
-	![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=200&size=30&duration=3500&pause=500&multiline=true&width=435&height=80&color=#b36868&lines=Рад+всех+приветствовать!;)
+	![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=200&size=30&duration=3500&pause=500&multiline=true&width=435&height=80&color=white&lines=Рад+всех+приветствовать)
 </div>
 
 #### <div align=left> :fire: Моя статистика:

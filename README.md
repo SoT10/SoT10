@@ -7,13 +7,13 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8F9B6DE9&background=FFFFFF00&width=435&lines=%D0%A0%D0%B0%D0%B4+%D0%B2%D1%81%D0%B5%D1%85+%D0%BF%D1%80%D0%B8%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%BE%D0%B2%D0%B0%D1%82%D1%8C!)](https://git.io/typing-svg)
 
-#### <div align=left> :fire: Моя статистика:
+#### <div align=left color=8F9B6DE9> :fire: Моя статистика:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SoT10&theme=dark&hide_border=true&locale=ru&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) 
 
 ### Top langs
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoT10&hide=TeX&layout=compact&theme=dark)    
 
-### <div align="left">  :hammer_and_wrench: Чего могу : </div>
+### <div align="left" color=8F9B6DE9>  :hammer_and_wrench: Чего могу : </div>
 
 <div align="left" >
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
@@ -22,7 +22,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" **alt="Bash" width="40" height="40"/>
 </div>
 
-### <div align="left">  :hammer_and_wrench: Чего хочу мочь :</div>
+### <div align="left" color=8F9B6DE9>  :hammer_and_wrench: Чего хочу мочь :</div>
 
 <div align="left">
     <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg" title="ansible" **alt="ansible" width="40" height="40"/>
